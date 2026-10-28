@@ -18,7 +18,7 @@ The store app **C-OS Apps** reads `apps/catalog.manifest` (signed with the C-OS 
 |---|---|---|---|
 | mc-classic-c (Minecraft Classic 0.0.11a to 0.30 rewritten in C) | `apps/minecraft/` | about 11 MiB | GPL-3.0, github.com/degradka/mc-classic-c; the C-OS port is in the C-OS repository (`userland/programs/mcclassic`) |
 | Sprint (scripting language + GUI library) | `apps/sprint/` | about 0.4 MiB | github.com/kawanakatomoya374-pixel/Sprint; the C-OS port is `ports/sprint` in the C-OS repository |
-| PSXFunkin (game data not included) | `apps/psxfunkin/` | about 0.8 MiB | MPL-2.0, github.com/IgorSou3000/PSXFunkin; the C-OS port is `ports/psxfunkin` in the C-OS repository |
+| PSXFunkin (the game data is downloaded on the device from the PSXFunkin repository, not from here) | `apps/psxfunkin/` | about 0.9 MiB | MPL-2.0, github.com/IgorSou3000/PSXFunkin; the C-OS port is `ports/psxfunkin` in the C-OS repository |
 
 ## Licences
 

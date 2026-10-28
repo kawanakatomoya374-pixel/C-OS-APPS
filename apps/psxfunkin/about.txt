@@ -1,1 +1,1 @@
-PSXFunkin: Friday Night Funkin' for the PlayStation (MPL-2.0, github.com/IgorSou3000/PSXFunkin) ported to C-OS. The game data is not included: copy it to /apps/psxfunkin/data.
+PSXFunkin: Friday Night Funkin' for the PlayStation (MPL-2.0, github.com/IgorSou3000/PSXFunkin) ported to C-OS. The first start downloads the game data from the PSXFunkin repository on GitHub and prepares it (about 71 MB).
