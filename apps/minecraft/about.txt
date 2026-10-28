@@ -1,0 +1,1 @@
+mc-classic-c: Minecraft Classic 0.0.11a to 0.30 rewritten in C (GPL-3.0, github.com/degradka/mc-classic-c). Start it from the Launcher.

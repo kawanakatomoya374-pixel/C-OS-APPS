@@ -1,0 +1,6 @@
+COSLP 1
+pack name=minecraft title=mc-classic-c version=0.30 serial=1793214069 chunks=2 files=37 bytes=16439829 download=11719335 root=/apps/minecraft exec=mc-c0.30.c-os icon=icon.png
+chunk file=minecraft.p0001.bin size=5009109 sha256=508b178b1b38db4af6395adfa5c243c508bb818885705b0c12451740bfe2e9f7 raw=9590036
+chunk file=minecraft.p0002.bin size=6710226 sha256=898ef03e547bfb47f057bfdb79f0bbdd690e2292f754c55341aeeea22e77a1f0 raw=6851449
+--SIG--
+e0e7fd9d531176152e82c0ec26c444987c0f9f709867b91f4d2ddbf5d14f71d66aa176ca3d3ae4b97f536a9583e7aa5f00e21b80f7a917a6910ef6233cd65612

@@ -1,0 +1,1 @@
+Sprint, a small scripting language with a GUI library. Double-click a .sp file to run it; examples are in /apps/sprint.
