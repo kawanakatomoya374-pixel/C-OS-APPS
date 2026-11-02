@@ -1,0 +1,1 @@
+Git, curl and a few command-line tools for the C-OS Terminal (type git, curl ... by name). Needs the C-OS update 4.1.0-r31.
