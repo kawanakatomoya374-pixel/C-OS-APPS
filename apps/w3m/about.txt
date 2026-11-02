@@ -1,0 +1,1 @@
+w3m 0.5.3, a text-mode web browser (the unmodified Ubuntu 20.04 program). In the Terminal: w3m -dump URL prints a page as text (also w3m -dump FILE.html); w3m -T text/html -dump FILE. The interactive screen needs a terminal (tty), which the C-OS Terminal does not have yet.

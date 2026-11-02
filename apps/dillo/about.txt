@@ -1,0 +1,1 @@
+Dillo 3.0.5, a small and fast graphical web browser (the unmodified Ubuntu 20.04 program, GPL-3.0, dillo.org). Plain web pages only (HTML, CSS basics, images; no JavaScript). It opens in the Linux window with its own X server, which takes a few minutes to start.
