@@ -1,0 +1,3 @@
+COSLP 1
+pack name=psxfunkin title=PSXFunkin version=0.4 serial=1793608944 chunks=1 files=7 bytes=3451580 download=1137027 root=/apps/psxfunkin exec=psxfunkin.c-os icon=icon.png
+chunk file=psxfunkin.p0001.bin size=1137027 sha256=624557e27c838c080e97ed7d3bd9b123cba49ddc3dbd03ff4ab4de50ae23067e raw=3451842
