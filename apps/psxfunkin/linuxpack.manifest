@@ -1,5 +1,5 @@
 COSLP 1
-pack name=psxfunkin title=PSXFunkin version=0.4 serial=1793608944 chunks=1 files=7 bytes=3451580 download=1137027 root=/apps/psxfunkin exec=psxfunkin.c-os icon=icon.png
-chunk file=psxfunkin.p0001.bin size=1137027 sha256=624557e27c838c080e97ed7d3bd9b123cba49ddc3dbd03ff4ab4de50ae23067e raw=3451842
+pack name=psxfunkin title=PSXFunkin version=0.5 serial=1793613841 chunks=1 files=7 bytes=4146596 download=1508688 root=/apps/psxfunkin exec=psxfunkin.c-os icon=icon.png
+chunk file=psxfunkin.p0001.bin size=1508688 sha256=9298ac1e9aed264146385f46b134a9ac3bbbf918dc75d0260d040910934b26c6 raw=4146858
 --SIG--
-f581d35d8da1c4a7356d04d413791eae208acf48da2f572c943b91d0a8702b6ef1726dc2439cb58962d8df93bc90d7e76334fcb1fcb70b6e3472eef0ec107a4a
+9007dbb4b56bea0d9ea3b5dbeb4c95d3d37bbe413120f11db1b184071ccd583bdf58f6fa648147cfa3cc25ab624e8169f55a08a7a3acf24fd1820eed7a7e9f15
