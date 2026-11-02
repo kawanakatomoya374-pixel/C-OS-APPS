@@ -1,0 +1,1 @@
+Java 17 (OpenJDK 17.0.15, the unmodified Ubuntu 20.04 build, GPL-2.0 with Classpath Exception) for the C-OS Terminal. Commands: java (or java17), javac17, jar17, jshell17, keytool17, javadoc17. Needs C-OS 4.1.0-r32 or newer. No screen programs yet; JIT and threads work.
