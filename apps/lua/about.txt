@@ -1,0 +1,1 @@
+Lua 5.5.1 (lua, luac) and LuaJIT 2.1 (luajit, with JIT and FFI) for the C-OS Terminal: type lua or luajit and a script name. Built unmodified from the official sources (MIT licence, lua.org and luajit.org); no interactive prompt yet because the Terminal has no tty.

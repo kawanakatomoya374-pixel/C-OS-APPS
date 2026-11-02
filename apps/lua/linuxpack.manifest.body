@@ -1,0 +1,3 @@
+COSLP 1
+pack name=lua title=Lua_and_LuaJIT version=5.5.1 serial=1793616688 chunks=1 files=31 bytes=5048159 download=2466565
+chunk file=lua.p0001.bin size=2466565 sha256=4ab713af511c7060a0465b530ba4dc16e6cce2c8d12fb555c72f2ad65ef1a46e raw=5050332
