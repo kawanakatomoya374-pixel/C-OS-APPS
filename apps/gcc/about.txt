@@ -1,0 +1,1 @@
+GCC 14.3.0 (C, C++, LTO, OpenMP) with binutils 2.34 and make 4.2.1 for the C-OS Terminal: type gcc, g++, cc, make ... by name. The unmodified Ubuntu 20.04 build from the Ubuntu Toolchain PPA, GPL-3.0. Needs C-OS 4.1.0-r36 or newer.
