@@ -1,5 +1,5 @@
 COSLP 1
-pack name=cosbrowser title=C-OS_Browser version=0.1.0 serial=1794210655 chunks=38 files=8930 bytes=556010862 download=213965033 exec=/linux/opt/cosbrowser/CosBrowser.c-os icon=cos-browser.png args=
+pack name=cosbrowser title=C-OS_Browser version=0.1.1 serial=1794246081 chunks=38 files=8932 bytes=558148698 download=214413687 exec=/linux/opt/cosbrowser/CosBrowser.c-os icon=cos-browser.png args=
 chunk file=cosbrowser.p0001.bin size=5802887 sha256=58a192d4a2b19140bde944482df351939a33a1718d0f3e6c0fa4fa41008478c1 raw=14523666
 chunk file=cosbrowser.p0002.bin size=5758552 sha256=09fd829b64f1b1615c36b30ba600b777d46c6d1617d1e2508fbaa85fd6f24c3d raw=16774062
 chunk file=cosbrowser.p0003.bin size=3267658 sha256=94aa00df45793122887ba300277236d7a1bbdb75670363ee955bb7bc0192a90a raw=10423546
@@ -32,9 +32,9 @@ chunk file=cosbrowser.p0029.bin size=8982974 sha256=0d603038ffe5d510bcee1e829c28
 chunk file=cosbrowser.p0030.bin size=3503524 sha256=d3e453051e20f0a5a2fb8eebe24023a2d2fd3b8b41ab901c240b541a0609eb92 raw=11861469
 chunk file=cosbrowser.p0031.bin size=2353085 sha256=2bd3b1e7d564463703d2e49abd027c1b7af2c92cd6eaa9818b26911a5442cfc6 raw=16690304
 chunk file=cosbrowser.p0032.bin size=6061325 sha256=e71b0a57567df6daed0d0302dd35da7af1829dd253ef9fa13de6ecbc7d7bb8e1 raw=16770917
-chunk file=cosbrowser.p0033.bin size=6260511 sha256=ae33c805a9a8169cf62cc40004e958d8937ad6f3e23ede0f7651d8850d470b9d raw=16629109
-chunk file=cosbrowser.p0034.bin size=7097937 sha256=d1cac5253a3d85e81cca5a1ca86ca9d335da47fbe5c8aecd8f53ef78e5fa8ea0 raw=16743728
-chunk file=cosbrowser.p0035.bin size=4924442 sha256=2322fbdd1e522e13d689204277d043ddb1ece253a201b13c9096df1ba53ccf58 raw=16772371
-chunk file=cosbrowser.p0036.bin size=4790452 sha256=6088f41d16b1c9ae16e09d2e73ca9718158e035eae602f6bcb28f8cbc11235a7 raw=16775456
-chunk file=cosbrowser.p0037.bin size=2802811 sha256=7d996e87bd28d2d4ad281eee41ab3cbf61ed072187f9b30e53dfd2d776cee4b0 raw=14591378
-chunk file=cosbrowser.p0038.bin size=1220252 sha256=1806529c023d39c9f98b5941b2694efa1005c226eff08b18e7a8936fdbabde75 raw=6418432
+chunk file=cosbrowser.p0033.bin size=5912937 sha256=33aebbfcfe7d42533341f0d5a991e2700419acaedf590263b0c0ab7248098ec1 raw=16757613
+chunk file=cosbrowser.p0034.bin size=3708428 sha256=64304496a865bdf9124be9683dac89ee6e256846ebe6619c5d8f78d9da762285 raw=9730991
+chunk file=cosbrowser.p0035.bin size=6959355 sha256=55972ef73ef2dabccf9e5549ba7a814e9cf4ec7888f6b776a8d35c0bd9b06dad raw=16738111
+chunk file=cosbrowser.p0036.bin size=5259985 sha256=f563831427d65c061b192c08daacc9c6a55287278e80723f0138594ae9860c9c raw=16775170
+chunk file=cosbrowser.p0037.bin size=2594787 sha256=6a36ea34378abafe5bdf9009f908da8c18534e7d54892a660cd75667c3c43bba raw=16773773
+chunk file=cosbrowser.p0038.bin size=3109567 sha256=02b37e4eb071038ffa199cc5858a4cf2ecfef2fb25e945371d5a3c40224d2430 raw=13292809
