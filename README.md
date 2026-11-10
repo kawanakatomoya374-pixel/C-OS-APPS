@@ -17,6 +17,7 @@ The store app **C-OS Apps** reads `apps/catalog.manifest` (signed with the C-OS 
 | App | Folder | Download | Source / licence |
 |---|---|---|---|
 | C-OS Browser (beta: a native C-OS window with tabs and a start page around the unmodified WebKitGTK of Ubuntu 24.04; installs into `/linux` and puts a desktop shortcut) | `apps/cosbrowser/` | about 204 MiB | the engine WebKitGTK is LGPL-2.1/BSD, GStreamer and FFmpeg libraries LGPL/GPL, GNU Unifont GPL-2+ with the font exception; the C-OS parts are `userland/programs/cosbrowser` and `tools/cosweb` in the C-OS repository (`docs/COSBROWSER.md`). Not yet checked on C-OS 4.1.0-r36 |
+| Links2 + w3m (links2 2.29 in graphics mode in the Linux window, w3m 0.5.3 from the Terminal: the unmodified Ubuntu 24.04 programs) | `apps/links2/` | about 246 MiB | GPL-2.0+ (links2 and w3m; the packages' copyright files come with the files) |
 | mc-classic-c (Minecraft Classic 0.0.11a to 0.30 rewritten in C) | `apps/minecraft/` | about 11 MiB | GPL-3.0, github.com/degradka/mc-classic-c; the C-OS port is in the C-OS repository (`userland/programs/mcclassic`) |
 | Sprint examples and icon (the Sprint interpreter is part of C-OS) | `apps/sprint/` | a few KiB | github.com/kawanakatomoya374-pixel/Sprint; the C-OS port is `ports/sprint` in the C-OS repository |
 | PSXFunkin (the game data is downloaded on the device from the PSXFunkin repository, not from here) | `apps/psxfunkin/` | about 0.9 MiB | MPL-2.0, github.com/IgorSou3000/PSXFunkin; the C-OS port is `ports/psxfunkin` in the C-OS repository |

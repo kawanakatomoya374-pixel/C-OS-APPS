@@ -1,0 +1,1 @@
+Links2 2.29 (graphics mode) and w3m 0.5.3, the unmodified Ubuntu 24.04 programs (GPL-2.0+). Links2 opens in the Linux window with its own X server; w3m runs from the Terminal (/linux/usr/bin/w3m URL). Needs C-OS 4.1.0-r33 or newer to install; before r41 w3m prints a harmless warning about /proc/stat.
