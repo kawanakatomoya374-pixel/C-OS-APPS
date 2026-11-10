@@ -4,7 +4,7 @@ Downloadable Linux app packs for [C-OS](https://github.com/kawanakatomoya374-pix
 
 | Pack | Folder | Download | Installed |
 |---|---|---|---|
-| Firefox 136 (with an X server, TigerVNC, and the Ubuntu 20.04 libraries they need) | `firefox/` | about 331 MiB | about 956 MiB |
+| Firefox 159.0.1 (with an X server, TigerVNC, and the Ubuntu 20.04 libraries they need; needs C-OS 4.1.0-r39 or later) | `firefox/` | about 369 MiB | about 1049 MiB |
 
 - Each folder holds `linuxpack.manifest` (signed with the C-OS release key) and zlib-compressed chunks `*.pNNNN.bin`. The installer refuses a pack whose signature or any chunk's SHA-256 does not match.
 - Served through GitHub Pages: `https://kawanakatomoya374-pixel.github.io/C-OS-APPS/firefox/`.
