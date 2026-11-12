@@ -1,0 +1,1 @@
+Claude Code 2.0.76(Anthropic の AI コーディングツール)を C-OS の Terminal で使います。ターミナルで claude と入力するか、デスクトップのアイコンから開きます。初回は Anthropic のアカウントでのログイン、または API キーが必要です。Node.js 18 と Ubuntu 24.04 のライブラリを含みます(Claude Code は Anthropic の製品で、利用規約は Anthropic のものが適用されます)。C-OS 4.1.0-r43 以上が必要です(疑似端末のため)。
